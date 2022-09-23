@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Kayla!
 - 👀 I’m interested in Frontend Web Developing
-- 🌱 I’m currently learning Javascript and ReactJS
+- 🌱 I’m currently learning ReactJS and building HTML Email Templates!
 - 📫 Linkedin: https://www.linkedin.com/in/kaylaedwards98/
      | Discord: faintmustang#3734
 
